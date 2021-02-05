@@ -13,3 +13,8 @@ Hackaday IO: https://hackaday.io/MarkOmo
  - [Embedded.FM](https://embedded.fm/)
  - [Reply All](https://gimletmedia.com/shows/reply-all)
  
+ #### Tools I Love:
+
+- [Joulescope](https://www.joulescope.com/)
+- [Binho Nova](https://binho.io/)
+- [PCBite](https://sensepeek.com/)
